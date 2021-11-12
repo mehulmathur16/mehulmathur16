@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **mehulmathur16/mehulmathur16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<hi align="center">Hi there, I am Mehul Mathur 👋</h1>
+
+- 🔭 I’m currently pursuing B.E. from Ramaiah Institute of Technology 
+- 🌱 I’m currently learning <strong>MERN Stack</strong>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/mehul-mathur-962b1a193" target="_blank">Mehul Mathur</a>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehulmathur16&show_icons=true" alt="mehulmathur16">
+</p>
