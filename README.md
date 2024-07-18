@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mehul Mathur</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehulmathur16&label=Profile%20views&color=0e75b6&style=flat" alt="mehulmathur16" /> </p>
 
-- 🔭 I’m currently pursuing <strong>B.E.</strong> from Ramaiah Institute of Technology 
-- 🌱 I’m currently learning <strong>MERN Stack</strong>
-- 👨‍💻 All of my projects are available at [https://github.com/mehulmathur16](https://github.com/mehulmathur16)
+- 🔭 I’m currently working as a <strong>Software Engineer at [https://bharatpe.com/](BharatPe)</strong>
+- 🌱 I’m currently exploring Open Source
+- 👨‍💻 All of my projects are available [https://github.com/mehulmathur16](here)
 - 📫 How to reach me: **mathur.mehul01@gmail.com**
 
 
